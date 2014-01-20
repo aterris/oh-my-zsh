@@ -5,4 +5,4 @@ ZSH_THEME_GIT_PROMPT_CLEAN=" %{$fg[green]%}✔%{$reset_color%}"
 
 MODE_INDICATOR="%{$fg[red]%}::INSERT::%{$reset_color%}"
 
-PROMPT='%{$fg[green]%}[%n@%M]%{$reset_color%} %{$fg[blue]%}%3~%{$reset_color%}%{$fg[red]%}:%{$reset_color%}$(git_prompt_info)%{$fg[blue]%}⇒ %{$reset_color%}'
+PROMPT='%{$fg[cyan]%}[%n@%M]%{$reset_color%} %{$fg[blue]%}%3~%{$reset_color%}%{$fg[red]%}:%{$reset_color%}$(git_prompt_info)%{$fg[blue]%}⇒ %{$reset_color%}'
